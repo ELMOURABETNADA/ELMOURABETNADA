@@ -1,99 +1,168 @@
 # 👋 Hello, I'm Nada EL MOURABET
 
-**Élève Ingénieure en Génie Informatique | Architecture SI & Développement Full-Stack | PFE dès Février 2026**
+**Software Engineering Student | Full-Stack Developer & System Architecture | Seeking Internship from February 2026**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nada-el-mourabet-3b1432258/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:nadaelmourabet2002@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-green?style=flat&logo=google-chrome)](https://nadaelmourabet.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/ELMOURABETNADA)
 
 ## 🚀 About Me
 
-I'm a final-year Computer Engineering student at ENSA Tétouan, passionate about **Software Architecture**, **ERP Integration**, and **Full-Stack Development**. I'm seeking a challenging **Final Year Project (PFE)** starting **February 2026** where I can contribute to innovative software solutions.
+Final-year Computer Engineering student at ENSA Tétouan with international internship experience in Germany and USA. Passionate about building scalable software solutions, optimizing business processes, and creating innovative digital experiences. Seeking a challenging **Final Year Internship** starting **February 2026** to contribute my technical expertise and learn from industry professionals.
 
-**🔍 Currently interested in:**
-- Software Architecture & System Design
-- ERP Integration (Odoo, SAP...)
-- Full-Stack Development
-- DevOps & Cloud Technologies
-- Business Process Optimization
+**🎯 Career Interests:**
+- Software Engineering & Full-Stack Development
+- System Architecture & Cloud Solutions
+- ERP Integration & Business Process Optimization
+- DevOps & Infrastructure Automation
+- Data Engineering & Machine Learning
 
-## 💼 Technical Skills
+## 💼 Technical Stack
 
-### **Backend & APIs**
+### **Programming & Development**
 ![Java](https://img.shields.io/badge/Java-Spring%20Boot-orange?style=flat&logo=java)
+![Python](https://img.shields.io/badge/Python-FastAPI%20%7C%20Flask%20%7C%20Django-blue?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-Laravel-purple?style=flat&logo=php)
-![Python](https://img.shields.io/badge/Python-FastAPI%20%7C%20Flask-blue?style=flat&logo=python)
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-TypeScript-61DAFB?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript)
-![Tailwind](https://img.shields.io/badge/Tailwind-Bootstrap-38B2AC?style=flat&logo=tailwind-css)
+![TypeScript](https://img.shields.io/badge/TypeScript-React-3178C6?style=flat&logo=typescript)
+![C](https://img.shields.io/badge/C-System%20Programming-A8B9CC?style=flat&logo=c)
 
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-336791?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-Oracle-4479A1?style=flat&logo=mysql)
+### **Frontend Technologies**
+![React](https://img.shields.io/badge/React-Hooks%20%7C%20Context-61DAFB?style=flat&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-Utility%20First-38B2AC?style=flat&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Responsive-7952B3?style=flat&logo=bootstrap)
+![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=flat&logo=css3)
+
+### **Backend & Databases**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Microservices-6DB33F?style=flat&logo=springboot)
+![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?style=flat&logo=nodedotjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational-336791?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=flat&logo=mongodb)
+![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=flat&logo=oracle)
 
 ### **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-Kubernetes-2496ED?style=flat&logo=docker)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat&logo=github-actions)
-![Linux](https://img.shields.io/badge/Linux-Infrastructure-FCC624?style=flat&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat&logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-Administration-FCC624?style=flat&logo=linux)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat&logo=git)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=flat&logo=github-actions)
 
 ### **Tools & Methodologies**
 ![Agile](https://img.shields.io/badge/Agile-Scrum%20%7C%20Kanban-FF6B6B?style=flat&logo=scrum)
-![UML](https://img.shields.io/badge/UML-BPMN-000000?style=flat)
+![UML](https://img.shields.io/badge/UML-Modeling-000000?style=flat)
 ![ERP](https://img.shields.io/badge/ERP-Odoo-714B67?style=flat)
+![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=flat&logo=figma)
+![Jira](https://img.shields.io/badge/Jira-Project%20Management-0052CC?style=flat&logo=jira)
 
 ## 🌟 Featured Projects
 
-### 🏗️ [Urbanisation du SI – Tétouan Smart Heritage City](https://github.com/ELMOURABETNADA/smart-city-si)
-Complete information system redesign for transforming Tetouan into a "Smart Heritage City"
-- **Tech:** BPMN, System Architecture, Process Modeling
-- **Features:** Business process analysis, functional & application architecture design
+### 🏗️ [Smart City Information System Architecture](https://github.com/ELMOURABETNADA/smart-city-si)
+**System Architecture & Business Process Modeling**
+- Complete SI redesign for urban transformation project using BPMN and UML
+- Business process analysis and functional architecture design
+- **Tech:** BPMN, System Architecture, Proxmox VE, Terraform, Monitoring
 
-### 🛒 [Odoo ERP E-commerce Module Deployment](https://github.com/ELMOURABETNADA/odoo-ecommerce)
-Implementation of an online store with Odoo ERP including product management, cart, and payment integration
-- **Tech:** Odoo ERP, Python, XML, JavaScript
-- **Features:** Theme customization, complete purchase process, discount system
+### 🛒 [Odoo ERP E-commerce Platform](https://github.com/ELMOURABETNADA/odoo-ecommerce)
+**ERP Development & Integration**
+- End-to-end e-commerce module implementation with Odoo ERP
+- Custom theme development and payment integration
+- **Tech:** Odoo ERP, Python, XML, PostgreSQL, JavaScript
 
-### 💻 [Virtual Computer Lab Infrastructure](https://github.com/ELMOURABETNADA/virtual-lab)
-Design and deployment of a virtualized university laboratory with remote access to pre-configured software environments
-- **Tech:** Proxmox VE, Virtualization, Linux
-- **Features:** Isolated scalable VMs, reproducible environments for security testing
+### 🎓 [Virtual Computer Lab Infrastructure](https://github.com/ELMOURABETNADA/virtual-lab)
+**DevOps & Infrastructure Automation**
+- Virtualized university lab with remote access to pre-configured environments
+- Scalable VM management with Type 1/2 hypervisors
+- **Tech:** Proxmox VE, Virtualization, Linux, Docker, Ansible
 
 ### 📊 [Project Management System Design](https://github.com/ELMOURABETNADA/project-management-system)
-Comprehensive project management system design for software development company
-- **Tech:** UML, Visual Paradigm, Microservices Architecture
-- **Features:** Process modeling, use cases, sequence diagrams, technical specifications
+**Software Architecture & Process Design**
+- Comprehensive UML modeling for enterprise project management
+- Microservices architecture proposal with AI resource allocation
+- **Tech:** UML, Visual Paradigm, Microservices, Process Modeling
+
+### 🚗 [TetouanCars - Car Rental Platform](https://github.com/Skidis17/TetouanCars.git)
+**Full-Stack Development**
+- Responsive car rental application with role-based dashboards
+- NoSQL backend integration and TypeScript frontend
+- **Tech:** React.js, TypeScript, Flask, Python, MongoDB, REST API
+
+### 🧸 [Lo3baty - Toy Rental Marketplace](https://github.com/Skidis17/Lo3baty.git)
+**Web Application Development**
+- Peer-to-peer toy rental platform with real-time booking
+- Geolocation features and CI/CD pipeline implementation
+- **Tech:** Laravel, MySQL, TailwindCSS, JavaScript, Google Maps API, GitHub Actions
 
 ## 💻 Professional Experience
 
-### **Software Engineering Intern** @ Apexium (Germany)
-*June - September 2025*
-- Developed full-stack applications using Spring Boot, React, and PostgreSQL
-- Implemented RESTful APIs, microservices, and database management
-- Deployed applications using CI/CD pipelines with GitHub Actions and Docker
+### **Software Engineering Intern** @ APEXIOM (Germany)
+*June 2025 - September 2025*
+- Developed 3 frontend projects (React, TypeScript, Tailwind CSS) and a full-stack application
+- Implemented RESTful APIs, microservices, and database management systems
+- Participated in CI/CD deployment using GitHub Actions and Docker
+- Applied Agile methodologies for project coordination and delivery
 
 ### **Web Development Intern** @ The AI Training Hub LLC (USA)
-*Mai - June 2025*
-- Built multilingual full-stack application with Laravel, MySQL, and JavaScript
-- Enhanced UX/UI features and backend performance
-- Collaborated in international Agile/Scrum environment
+*May 2025 - June 2025*
+- Designed and evolved a multilingual full-stack application using Laravel, MySQL, and JavaScript
+- Implemented UX/UI enhancements and backend performance optimizations
+- Collaborated in international Agile/Scrum environment with direct client interaction
 
-## 📚 Education
+## 🎓 Education
 
-**Diplôme d'ingénieur d'État en Génie Informatique (SIAD)**  
+**Diplôme d'Ingénieur d'État en Génie Informatique (SIAD)**  
 *École Nationale des Sciences Appliquées (ENSA), Tétouan*  
-2021 – Present
+*2021 – Present*
+
+**Classes Préparatoires Integrées**  
+*École Nationale des Sciences Appliquées (ENSA), Tétouan*  
+*2021 – 2023*
+
+**Baccalauréat en Sciences Mathématiques – A**  
+*Lycée Jaber Ibn Hayan, Tétouan*  
+*2019 – 2020*
+
+## 📜 Certifications
+
+- **Agile Project Management** - HP LIFE
+- **Generative AI Fundamentals** - Databricks
+- **Kubernetes Fundamentals** - DataScientest
+- **Docker Basics for Containerization** - DataScientest
+- **Laravel Framework for Beginners** - Alison
+
+## 🤝 Extracurricular Activities
+
+**Responsable Sponsoring** @ InfoTech ENSATE  
+*2023 - 2024*
+- Managed strategic partnerships and sponsorship acquisition
+- Coordinated technology events and team management
+
+**Active Member** @ InfoTech ENSATE  
+*2021 - 2023*
+- Participated in hackathons and technology event organization
+- Contributed to club activities and technology promotion
+
+## 🌐 Languages
+
+- **Arabic**: Native
+- **French**: Professional Proficiency (C1)
+- **English**: Professional Proficiency (B2+) - International work experience
+- **Spanish**: Basic Knowledge (A1)
 
 ## 📫 Let's Connect!
 
-I'm always open to discussing technology, potential collaborations, or internship opportunities.
+I'm actively seeking internship opportunities starting February 2026 and would love to discuss how I can contribute to your team!
 
-- **Email:** [nadaelmourabet2002@gmail.com](mailto:nadaelmourabet2002@gmail.com)
-- **LinkedIn:** [nada-el-mourabet-3b1432258](https://www.linkedin.com/in/nada-el-mourabet-3b1432258/)
-- **Portfolio:** [Coming Soon!](https://nadaelmourabet.vercel.app/)
+- **📧 Email:** [nadaelmourabet2002@gmail.com](mailto:nadaelmourabet2002@gmail.com)
+- **💼 LinkedIn:** [Nada EL MOURABET](https://www.linkedin.com/in/nada-el-mourabet-3b1432258/)
+- **🐙 GitHub:** [ELMOURABETNADA](https://github.com/ELMOURABETNADA)
+- **🌐 Portfolio:** [nadaelmourabet.vercel.app](https://nadaelmourabet.vercel.app/)
+- **📞 Phone:** +212 631-448573
+- **📍 Location:** Tétouan, Morocco
 
 ---
 
-⭐ *From [ELMOURABETNADA](https://github.com/ELMOURABETNADA)*
+⭐ *"Turning complex problems into elegant solutions"* | [Explore My Projects](https://github.com/ELMOURABETNADA?tab=repositories)
